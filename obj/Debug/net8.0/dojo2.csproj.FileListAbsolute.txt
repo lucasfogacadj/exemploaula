@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Documentos\Aulas\dojo2\bin\Debug\net8.0\dojo2.exe
+C:\Users\lucas\OneDrive\Documentos\Aulas\dojo2\bin\Debug\net8.0\dojo2.deps.json
+C:\Users\lucas\OneDrive\Documentos\Aulas\dojo2\bin\Debug\net8.0\dojo2.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documentos\Aulas\dojo2\bin\Debug\net8.0\dojo2.dll
+C:\Users\lucas\OneDrive\Documentos\Aulas\dojo2\bin\Debug\net8.0\dojo2.pdb
+C:\Users\lucas\OneDrive\Documentos\Aulas\dojo2\obj\Debug\net8.0\dojo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\Aulas\dojo2\obj\Debug\net8.0\dojo2.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Aulas\dojo2\obj\Debug\net8.0\dojo2.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\Aulas\dojo2\obj\Debug\net8.0\dojo2.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Aulas\dojo2\obj\Debug\net8.0\dojo2.dll
+C:\Users\lucas\OneDrive\Documentos\Aulas\dojo2\obj\Debug\net8.0\refint\dojo2.dll
+C:\Users\lucas\OneDrive\Documentos\Aulas\dojo2\obj\Debug\net8.0\dojo2.pdb
+C:\Users\lucas\OneDrive\Documentos\Aulas\dojo2\obj\Debug\net8.0\dojo2.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Documentos\Aulas\dojo2\obj\Debug\net8.0\ref\dojo2.dll

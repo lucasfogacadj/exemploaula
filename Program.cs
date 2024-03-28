@@ -50,3 +50,4 @@ int y = Convert.ToInt32(Console.ReadLine());
 
 Console.WriteLine(x%2==0?"X é par":"X não é par");
 Console.WriteLine(y%2==0?"Y é par":"Y não é par");
+//teste
